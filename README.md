@@ -68,7 +68,7 @@ The data preparation and transformation workflow was implemented in Keboola usin
 [SQL Example 2](https://gist.github.com/Lamatova/0d4c1381e8483a9729e2ed0aa6dd8680)
 
 ### Weather and Transport Data Integration
-[SQL Example 3] (https://gist.github.com/Lamatova/91cc0fbc75f204b960f80e11c2662657
+[SQL Example 3](https://gist.github.com/Lamatova/91cc0fbc75f204b960f80e11c2662657
 
 
 ## Key Findings
