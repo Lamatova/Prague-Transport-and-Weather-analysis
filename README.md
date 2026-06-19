@@ -48,6 +48,10 @@ The analysis combines operational transport data from Prague public transport wi
 
 The original data collection scripts were developed by another team member and are therefore not included in this repository.
 
+## Data Model
+
+![Data Model](data_model.png)
+
 ## Key Findings
 
 - Rain slightly increases public transport delays.
