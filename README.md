@@ -72,7 +72,7 @@ The data preparation and transformation workflow was implemented in Keboola usin
 
 ## Dashboard
 
-![Dashboard](Dashboard_DA_project.png)
+[Dashboard](Dashboard_DA_project.png)
 
 
 ## Key Findings
